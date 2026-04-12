@@ -1,0 +1,54 @@
+
+
+Cantidad actual de abejas en la tabla: 515.000
+Cantidad de abejas vivas 27
+Cantidad anterior de abejas vivas 0
+Abejas a sumar/restar 27
+Cantidad actual de huevos: 2
+Cantidad anterior de huevos: 0
+Huevos a sumar/restar 2
+Cantidad actual de miel: 0
+Cantidad anterior de miel: 0
+miel a sumar/restar 0
+       (H)(H)(P)(P)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+
+
+
+ESTADO COLMENA [16]:, polen: [7], miel: [0], abejas: [27], huevos: [2]
+
+
+
+Cantidad actual de abejas en la tabla: 518.000
+Cantidad de abejas vivas 27
+Cantidad anterior de abejas vivas 27
+Abejas a sumar/restar 0
+Cantidad actual de huevos: 2
+Cantidad anterior de huevos: 2
+Huevos a sumar/restar 0
+Cantidad actual de miel: 0
+Cantidad anterior de miel: 0
+miel a sumar/restar 0
+       (H)(H)(P)(P)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+
+
+
+ESTADO COLMENA [16]:, polen: [7], miel: [0], abejas: [27], huevos: [2]
+

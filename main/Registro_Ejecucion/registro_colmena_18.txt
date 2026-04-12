@@ -1,0 +1,27 @@
+
+
+Cantidad actual de abejas en la tabla: 578.000
+Cantidad de abejas vivas 26
+Cantidad anterior de abejas vivas 0
+Abejas a sumar/restar 26
+Cantidad actual de huevos: 0
+Cantidad anterior de huevos: 0
+Huevos a sumar/restar 0
+Cantidad actual de miel: 0
+Cantidad anterior de miel: 0
+miel a sumar/restar 0
+       (P)(P)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+       (L)(L)(L)(L)(L)(L)(L)(L)(L)(L)
+
+
+
+ESTADO COLMENA [18]:, polen: [8], miel: [0], abejas: [26], huevos: [0]
+
